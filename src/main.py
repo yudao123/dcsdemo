@@ -16,5 +16,5 @@ if __name__ == '__main__':
     else:
         n = int(sys.argv[1])
     print(fab_ratio(n))
-    # print('ready 2')
+    # print('ready 3')
     
